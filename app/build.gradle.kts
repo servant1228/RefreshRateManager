@@ -92,8 +92,5 @@ dependencies {
     // Backdrop (liquid glass blur)
     implementation(libs.backdrop)
 
-    // LSPosed
-    compileOnly("de.robv.android.xposed:api:101")
-    compileOnly("de.robv.android.xposed:api:101:dex")
-    compileOnly("de.robv.android.xposed:util:101")
+
 }
